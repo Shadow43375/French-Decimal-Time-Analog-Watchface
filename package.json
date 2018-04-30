@@ -1,0 +1,28 @@
+{
+    "author": "enyab.null@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "simple-decimal-analog",
+    "pebble": {
+        "displayName": "Simple Decimal Analog",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "5a72099d-3cd6-4cc6-b29d-d5386dbf2e7a",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
